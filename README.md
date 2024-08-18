@@ -6,4 +6,4 @@ Projects are currently private due to academic regulations.
 
 * Sudoku Solver
 
-* Lexicon & Regex Matching "Autocomplete"
+* Word Lexicon & Regex-Based "Autocompletion" Engine
